@@ -28,9 +28,8 @@ import javax.swing.JTabbedPane;
 import javax.swing.SwingConstants;
 
 /**
- * @author Jt9
- * @coAuthor NooB_AssassinZ3
- * @version N1.0J?.?
+ * @author nbz3
+ * @version 1.0
  */
  
 
