@@ -1,2 +1,2 @@
 # minecraft-clicker
-A project I once on planetminecraft.com and will continue
+A project I once found on planetminecraft.com and will continue
